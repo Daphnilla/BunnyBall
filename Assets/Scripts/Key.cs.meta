@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c65264f8896472545b924f5dc724188f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144940
+  packageName: Bunny Ball Assets
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/Key.cs
+  uploadId: 363458

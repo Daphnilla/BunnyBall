@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f9570b60f57644ed5b7e3178b8d57d93
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144940
+  packageName: Bunny Ball Assets
+  packageVersion: 1.0
+  assetPath: Assets/SimpleParticlePack/Scripts/ParticleTester.cs
+  uploadId: 363458
