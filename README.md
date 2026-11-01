@@ -1,1 +1,1 @@
-This BunnyBall game contains all the information and work done from Module 1 through Module 3. (I accidentally named Module 3 to Module 4 in my last push. THIS IS ALL 1-3!!!
+BunnyBall is a Unity game development project I created using C# to improve my programming skills. I combined guided tutorials with additional code to explore game mechanics, strengthen my problem-solving abilities, and gain hands-on experience in game development.
